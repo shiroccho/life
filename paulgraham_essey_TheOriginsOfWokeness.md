@@ -1,3 +1,5 @@
+出典：(https://www.paulgraham.com/woke.html)[https://www.paulgraham.com/woke.html]
+
 The Origins Of Wokeness（覚醒主義の起源）
 
 January 2023
