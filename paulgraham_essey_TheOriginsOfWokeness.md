@@ -173,3 +173,5 @@ wokenessはまた、多くの実際のキリスト教の形態とかなり面白
 \[18] しかし、組織内の攻撃的に保守的な人々を取り除くことはできます。そして、ほとんどではないにしても多くの組織にとって、これは素晴らしいアイデアでしょう。ほんの一握りの彼らでさえ、多くの損害を与える可能性があります。ほんの一握りからゼロになれば、目に見える改善を感じるだろうと私は賭けます。
 
 ---
+
+Thanks to Sam Altman, Ben Miller, Daniel Gackle, Robin Hanson, Jessica Livingston, Greg Lukianoff, Harj Taggar, Garry Tan, and Tim Urban for reading drafts of this.
