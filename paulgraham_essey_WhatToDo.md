@@ -1,4 +1,4 @@
-出典：(https://www.paulgraham.com/do.html)[https://www.paulgraham.com/do.html]
+出典：[https://www.paulgraham.com/do.html](https://www.paulgraham.com/do.html)
 
 What To Do（何をすべきか）
 
