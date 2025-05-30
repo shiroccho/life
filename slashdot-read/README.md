@@ -32,3 +32,17 @@
 ### 付録
 * [付録: Slashdot 用語集](slashdot_6-1.md)
 * [付録: よくある質問 (FAQ)](slashdot_6-2.md)
+
+このドキュメントに対するご要望は Issue に記載ください
+
+## ライセンス
+
+この文章は [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) の下で提供されています。
+
+* **表示:** あなたは適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があった場合にはその旨を示さなければなりません。
+* **非営利:** あなたはこの文章を営利目的で利用してはなりません。
+* **改変禁止:** あなたはこの文章を改変したり、派生的な文章を作成したりしてはなりません。もしあなたがこの文章を改変したり、派生的な文章を作成した場合、あなたは改変された文章を頒布することはできません。
+
+詳細なライセンス条文は [LICENSE](LICENSE) ファイルをご覧ください。
+
+![CC-NC-ND](https://creativecommons.jp/wp-content/uploads/2015/04/by-nc-nd.png?w=150)
